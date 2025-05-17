@@ -6,7 +6,7 @@
 
 ## 📸 Скриншот
 
-![tanks\_game\_banner](img/tank_up.png)
+![PYGAME_312\_picture](picture/maxresdefault.jpg)
 
 ---
 
