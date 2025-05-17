@@ -6,7 +6,7 @@
 
 ## 📸 Скриншот
 
-> picture/maxresdefault.jpg
+![tanks\_game\_banner](img/tank_up.png)
 
 ---
 
