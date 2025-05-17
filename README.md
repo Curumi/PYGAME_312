@@ -21,7 +21,7 @@ pip install pygame
 ### ▶️ Запуск игры
 
 ```bash
-python puzzle_game.py
+python PYGAME_312.py
 ```
 
 ---
@@ -42,7 +42,7 @@ python puzzle_game.py
 
 ```
 project/
-├── puzzle_game.py
+├── PYGAME_312.py
 ├── assets/
 │   ├── menu_background.jpg
 │   └── scary_music.mp3
