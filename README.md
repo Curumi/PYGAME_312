@@ -6,7 +6,7 @@
 
 ## 📸 Скриншот
 
-> *picture/maxresdefault.jpg*
+> picture/maxresdefault.jpg
 
 ---
 
